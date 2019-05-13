@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ietahquato.yohanesyuen.com/sitemap.xml
